@@ -1,2 +1,2 @@
 # PAHRNet3D
-pancreas segmentation
+## 基于3D路径聚合高分辨率网络的胰腺分割方法
